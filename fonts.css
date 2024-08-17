@@ -1,0 +1,36 @@
+/* Primary Font*/
+@font-face {
+    font-family: 'Hammer';
+    src: url(fonts/HammerBro101MovieBold-Regular.ttf);
+}
+
+/* Secondary Font */
+@font-face {
+    font-family: 'Poppins';
+    src: url(fonts/Poppins-Regular.ttf);
+}
+
+/*Secondary Font 2*/
+@font-face {
+    font-family: 'Poppins';
+    src: url(fonts/Poppins-Regular.ttf);
+}
+
+/* Evasive Primary Font*/
+@font-face {
+    font-family: 'Bungee';
+    src: url(fonts/Bungee-Regular.ttf);
+}
+
+/* Clean Caps Font*/
+@font-face {
+    font-family: 'Koulen';
+    src: url(fonts/Koulen-Regular.ttf);
+}
+
+/* Clean Caps Font*/
+@font-face {
+    font-family: 'Squada';
+    src: url(fonts/SquadaOne-Regular.ttf);
+}
+

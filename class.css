@@ -1,0 +1,39 @@
+.pfont{
+    font-family: 'Hammer';
+    text-transform: uppercase;
+}
+
+.sfont{
+    font-family: 'Poppins';
+}
+
+.epfont{
+    font-family: 'Bungee';
+}
+
+.ccfont{
+    font-family: 'Koulen';
+}
+
+.ccfont2{
+    font-family: 'Squada';
+}
+
+
+
+
+.anti_link{
+    color: black;
+    text-decoration: none;
+}
+
+
+.name_shortener{
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+
+.underline{
+    text-decoration: underline;
+}
